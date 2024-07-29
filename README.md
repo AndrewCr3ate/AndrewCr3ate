@@ -11,3 +11,5 @@ Meu nome é André Augusto 🇧🇷 🏖️
 andre.ferreira.matos@escola.pr.gov.br <----- //Email escolar//
                 
 @AndrewCr3ate
+
+![]()https://media.tenor.com/7tufRKOZmaQAAAAi/kubbi-chiptune.gif
