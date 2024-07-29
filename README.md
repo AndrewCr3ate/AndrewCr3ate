@@ -2,7 +2,7 @@
 
 Meu nome é André Augusto 🇧🇷 🏖️
 
-- Estou estudando em um colegio estadual 🏫
+- Estou estudando em um colegio estadual 🏫, e também na [Alura](https://www.alura.com.br/)
 - Estou me desenvolvendo na linguagem JavaScript e Lua 🖥️
 - Utilizo esse espaço para minha organização e compartilhamentos de meus projetos desenvolvidos 📝
 
@@ -12,4 +12,4 @@ andre.ferreira.matos@escola.pr.gov.br <----- //Email escolar//
                 
 @AndrewCr3ate
 
-![]()https://media.tenor.com/7tufRKOZmaQAAAAi/kubbi-chiptune.gif
+![](https://media.tenor.com/7tufRKOZmaQAAAAi/kubbi-chiptune.gif)
